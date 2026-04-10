@@ -27,10 +27,4 @@ The project focuses on analyzing ride-sharing data and presenting it through a w
 - Payment and revenue tracking
 - REST API using Flask
 
-## Getting Started
 
-### Clone the repository
-
-```bash
-git clone https://github.com/Payal1461/dash-ride-noir.git
-cd dash-ride-noir
